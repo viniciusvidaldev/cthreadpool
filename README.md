@@ -1,4 +1,4 @@
-# chan
+# cthreadpool
 
 A bounded blocking channel in C, plus a thread pool built on top of it.
 
